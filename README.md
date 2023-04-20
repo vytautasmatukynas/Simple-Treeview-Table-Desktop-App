@@ -1,6 +1,6 @@
 # Simple-Order-Managment-Dekstop-App
 
-When you want to save data from SQL or load table, app will freeze for 1-2 sec. There will be an UPDATE soon with "threading" to prevent that. :)
+When you want to save data to SQL or load table, app will freeze for 1-2 sec. There will be an UPDATE soon with "threading" to prevent that. :)
 
 
 Simple tkinter treeview to manage orders or what ever you like, just have to change column names, thats all.
