@@ -1,5 +1,5 @@
 # Simple-Order-Managment-Dekstop-App
-This is my Tkinter and Sqlite first dekstop app project.
+This is my first dekstop app project with Tkinter and Sqlite.
 
 Simple tkinter treeview to manage orders or whatever you like, just have to change column names, thats all.
 
