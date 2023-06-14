@@ -1,5 +1,7 @@
 # Simple-Order-Managment-Dekstop-App
-Simple tkinter treeview to manage orders or whatever you like, just have to change column names, thats all.
+My first desktop app with Tkinter, i created this app when i was learning Tkinter framework and Python programming language. 
+
+Simple Tkinter treeview to manage orders or whatever you like, just have to change column names, thats all.
 
 ![paveikslas](https://user-images.githubusercontent.com/51360361/232301542-bbaa7a6f-c2ce-47d9-9d6d-cdbd79f1c109.png)
 
